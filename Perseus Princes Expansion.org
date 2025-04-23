@@ -1,0 +1,115 @@
+#+title: Perseus Princes Expansion
+#+FILETAGS: :work:
+* TODO "Perseus Princes Expansion"
+:PROPERTIES:
+:ORDERED:  t
+:END:
+** components
+*** do some research
+**** read Fractalism
+**** read the Perseus Princes
+**** see Nyeti's docs
+*** see the Discord messages on the Perseus Princes expansion
+*** pool ideas
+*** post organized notes
+*** start discussion
+** why am I doing this project?
+@Nyeti got me interested in working on this project! I really want to try collaborating with others on a sci-fi project. I also think that the core concept of the Perseus Princes is cool. And I am interested in developing it further. Of course, my motivation for this project is based on a momentary spark, and may not last, but if I do lose interest, I will tell others about what ideas I have so they can continue it.
+** basket
+- stuff I thought of earlier
+  - see Nyeti's docs
+  - read the Perseus Princes Article
+  - read Fractalism
+  - lol
+  - post organized notes
+  - collect all the ideas somehow!
+- what is the objective?
+  flesh out the environment, economy, politics, interpolitics, and culture of the Perseus Princes
+- what do I already know about the project?
+  - I need to start a forum thread so we can discuss stuff
+  - I know this about the Perseus Princes: they are an empire in the perseus arm led by several S5 and S4 archai, with one named Prince Vatakesh. They believe in fractalism - the idea that sophontkind is a giant fractal of sophonts from top to bottom. They are also near the Amalgamation.
+    - perhaps fractionalism could even include literal bacteria and viruses? perhaps it encourages clade diversity?
+      - perhaps clade diversity is helped by creating virtual realms free from the constraints of the physical world? and making A-Life? idk
+  - here are some ideas that fellow OAUPers came up with on the Discord:
+    - the Perseus Princes could have a top to down chain of beings based on toposophic levels; the S5s could have S4s answering to them, which would have S3s answering to them, all the way down to modosophonts and maybe even sub-sapient beings?
+    - @Nyeti proposed that the gothic feel of this empire could be part of its "memetic" appeal: the danger of the Amalgamation, the tight-knit communities, a cabal of princes, and so on.
+    - @Nyeti proposed that it could have good and bad sides; good that you are living in an intimate and tight-knit community with clear purpose, bad that the empire is somewhat militaristic compared to most Sephirotics, and there is the danger of the Amalgamation and PADO steralizing systems to avoid Amalgamation infections.
+  - here is also some ideas that @Nyeti came up with in his google doc that he shared with me
+    - xenophilia could be one of the Perseus Prince's values
+    - of course they need energy for new wormhole links - they are a buorgening empire. I think this has interesting implications! Perhaps they ask for energy from other empires?
+    - they have good relations with Metasoft, the Solar Dominion (even those those two were enemies in the Version War lol), and all
+    - they have bad relations with the Amalgamation, but it has bad relations with everyone.
+    - of course, @Nyeti followed my proposed questions and categories in fleshing. perhaps they are good for something after all!
+    - I also want to flesh out what they DON'T value, or frown upon (perhaps solipsism since they are a tight-knit community)
+    - what are they working towards? archai motives are incomprehensible, but what are modo societies in here trying to do
+    - perhaps consult stevebowers? he expanded it after all
+  - here are some questions that I have on the Perseus Empires
+    - where did they even come from?
+    - why princes?
+    - how is the daily life of a modosophont? let's make one short vignette at around 100 words to show this
+- what don't I know that I need to find out?
+  - how should we collaborate on this? should this be an anarchy, where we just kind of pool our ideas and come up with stuff and write drafts? or should this be top-to-bottom chain?
+    - I think It should be an anarchy. altough @Nyeti might make a good leader haha - Idk tho this choice is just vibes
+    - but who should post the first draft?
+    - I think we should pool our ideas together in one big document and then coalese them somehow
+  - was I the one to spark enthusiasm by mentioning the Perseus Princes? Or did I just bring the topic back up again
+- where can I get relevant insights for this project?
+  - the EG
+  - the existing pages on the Perseus Princes
+  - Fractionalism
+  - the Discord
+  - a forum thread that I might start on this topic
+** TODO plan "Perseus Princes Expansion" [2/5]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** DONE brainstorm ideas for "Perseus Princes Expansion" using the questions :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-23 বুধ 15:12]
+CLOCK: [2025-04-23 বুধ 14:57]--[2025-04-23 বুধ 15:12] =>  0:15
+:END:
+<2025-04-23 বুধ 15:15-15:30>
+**** questions
+- why am I doing this project?
+- what is the objective?
+- what do I already know about the project?
+- what don't I know that I need to find out?
+- where can I get relevant insights for this project?
+*** DONE search the notes for relevant ideas for "Perseus Princes Expansion" :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-23 বুধ 15:15]
+CLOCK: [2025-04-23 বুধ 15:12]--[2025-04-23 বুধ 15:15] =>  0:03
+:END:
+<2025-04-23 বুধ 15:30-15:35>
+*** TODO consolidate the basket for "Perseus Princes Expansion" into a plan outline :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+:LOGBOOK:
+CLOCK: [2025-04-23 বুধ 15:15]
+:END:
+<2025-04-23 বুধ 15:35-15:40>
+*** TODO write out all of the components of the plan outline of "Perseus Princes Expansion" :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+<2025-04-23 বুধ 15:40-15:45>
+*** TODO sketch out tasks for "Perseus Princes Expansion" :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+<2025-04-23 বুধ 15:45-16:00>
+** TODO finish "Perseus Princes Expansion" [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO write a report of how well the project went :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
