@@ -1,0 +1,36 @@
+#+title: Data Panel
+- Overview
+  - Defintion
+  - Symbol
+  - Ruling Archailect
+  - Archailect Ethos
+- Founding History
+  - Origin:
+  - Founding Events
+- Culture, Art, and Society
+  - Cultural Ethos
+  - Society
+  - Intertoposophic
+  - Religion and ideology
+  - ontology          o
+- demographics
+  - morphodynamics
+  - population breakdown
+- galactography
+  - current territory
+  - number of aligned star systems
+  - capital:
+  - major systems and megastructures
+- government and administration
+  - government
+  - citizenship
+  - sophont rights
+  - empire holidays
+- activities and infrastructure
+  - civil infrastructure
+  - economy and activities
+  - military infrastructure and warfare
+- interstellar politics
+  - treaty participation
+  - interstellar relations
+  - interstellar disputes

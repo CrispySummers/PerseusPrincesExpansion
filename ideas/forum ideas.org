@@ -1,0 +1,65 @@
+#+title: Forum Ideas
+* @Nyeti
+** here
+  OK, let's throw some ideas around within the framework of a data panel. It's not meant to be definitive but a suggestion of where we should go. Text in italics is especially tentative.
+
+Overview
+Definition: Young Archailect Empire
+Symbol: the cool swirly purple logo?
+Ruling archailects: four S5 Princes including Prince Vatsceh
+Archailect ethos: we've not got this quite figured out yet, but creating a harmonious Terragen-xeno hybrid civilisation seems to be part of it, as does fighting the Amalgamation. Prince Vatsceh at least seems pretty interventionist.
+Founding history
+Origin: Mixed Terragen, Muuh, and Soft Ones. Presumably based on settlement of the Perseus Rift and Perseus Arm, which could not have happened before the 9th millennium.
+Founding events: 8400s Prince Vatsceh ascends to S5; 8750 first encounter with the Amalgamation; 9012 Pluton converted for habitation; 9583-9949 Epp War; 10002 local wormhole nexus reaches 15 stars
+Culture, Art, and Society
+Cultural Ethos: presumably communitarian, xenophilic, possibly militaristic?
+Society: this is pretty open, but could include the goal of building a great community. Maybe tribeminds are an important part of this
+Intertoposophic Relations: this is where Fractalism is most important - each toposophic is expected to have a relationship with those above and below
+Religion and Ideology: Fractalism is presumably part of this but can't be the only one
+Ontology: no idea
+Demographics
+Morphodynamics: no idea
+Population Breakdown: presumably mostly modosophont, but there must be some ascensions, and there are clearly a good number of S4 lesser Princes. maybe animins play a part?
+Galactography
+Current Territory: An irregular volume in the Perseus Periphery.
+Number of Aligned Star Systems: could be anything from a hundred thousand to maybe two million
+Breakdown: not much idea here - how centralised is it? Does it have a lot of loosely affiliated systems compared to "core" systems? That does seem likely given its involvement in PADO
+Capital: not sure - it could be in the Pluton system though, which is important for both modosophonts and for Vatsceh's grand designs
+Major Systems and Megastructures: Pluton is significant,  and Pehhpepep are
+Government and Administration
+Government: Imperial Administration: ?
+Local/Regional Administration: ?
+Administrative Divisions: ?
+Citizenship: ?
+Sophont Rights: presumably very good, with an emphasis on responsibility for lower toposophics
+Empire Holidays: ?
+Activities and Infrastructure
+Civil Infrastructure: includes a local wormhole nexus and presumably also beamriders, lightwars, etc.  Settlement seems to include plenty of cold planets and moons suitable for Muuh and Soft Ones.
+Economy and Activities: apparently settlement of new systems and building up infrastructure is significant. Godtech is in use.
+Military Infrastructure and Warfare: Higher than usual for the Sephirotics given its involvement in PADO, which requires at least S1 intelligence to fight effectively. There also seem to be enough small polities in the Perseus Rift to justify having a modosophont military.
+Interstellar Politics
+Treaty Participation: Tragadi Accords and PADO plus others - what are these?  They seem to involve some kind of accommodation with the Panvirtuality.
+Interstellar Relations: Generally good. The Persus Princes are allied with the Solar Dominion and Metasoft in PADO, and on good terms with the other Sephirotics. They are also have the closest relations of any major polity with the Muuh and Soft Ones, and (at least at higher toposophic levels) have made agreements with the Solipsist Panvirtuality.
+Interstellar Disputes: Aside from
+
+* @Rakuen07
+** info
+Okay, some information that might help us flesh out the Perseus Princes:
+Distance between SolSys and the Perseus Arm: My quick look at Wikipedia says that the Perseus Arm is about 6400 light years away from the Sun. According to the first picture of the Terragen Expansion article, this distance is between the maximum range covered (from Sol Sys) by Displacement Drives and Reactionless Drives by the Current Era without the aid of xenosophont-made wormholes. Most likely, the Perseus Arm per se is sparsely colonized by the Current Era, maybe possibly seen as potentially highly valuable interstellar real estate.
+The Perseus Rift: It is defined in the EG as: "Colloquial term for the volume between the Orion and Perseus arms; a vast and ill-defined volume rimwards of the Solar Dominion and Metasoft." I agree that the Perseus Princes should appear here, especially since we haven't defined how big the volume is, nor how close it is from SolSys.
+Early Days of the Perseus Rift:
+Perseus Rift article: "The Perseus Rift has always been a remote and troublesome region for the inner powers, and after the Version War a number of independent mainly ex-Dominion interstellar powers have emerged."
+Also from the same article: "A number of exploration-dedicated archai have transcended to become full archailects, and style themselves the Perseus Princes; " Should be transapients instead of archai there?
+Age of Evaluation article (5400-5800AT): "But while the Solar Dominion might be unsuccessfully trying to regain the Perseus Arm, the Negentropy Alliance is growing through the TrueModel, new polities and powers appear in the Serpens and Carina regions."
+Also from the Age of Evaluation article: "5699 - Cambyses, a dry xerogaian world discovered in the Perseus rift (see Marsupial Lion)."
+First Mentions of the Perseus Princes in the Timeline: In the timeline, the first mention of the Perseus Princes are from the Age of the Separate Empires (5800-6700AT). The mention is:
+"Almost as a response to the disintegration of the old ComEmp a new generation of AI gods appears. These "children" of the Archailects set out to manage different regions with more autonomy. The Perseus Arm princes are merely the best known of these."
+
+
+So, here's some ideas for their early history:
+
+The Perseus Rift is reached by several parties, most notably Metasoft and the Solar Dominion long-range colony missions backed by their respective archailects.
+(4445 AT - 4650 AT): The Version War happens and unfortunately Metasoft and the Solar Dominion are enemies in this conflict. Somehow, both empires lose control of the colonies.
+(4650 AT - 5400 AT): The Perseus Rift and the polities within develop on their own. Panvirtuality AIs may begin to install themselves in some stars at this era too?
+(5400 AT - 5800 AT): The Solar Dominion recontacts their colonies in the Perseus Rift, but they refuse to rejoin their parent Sephirotic Empire. It is clear that they are thriving without their parent Sephirotics and keep developing on their own.
+(6000s AT? 6500s AT?): The first SI:4 archailects in the region emerge and style themselves Princes (or Princesses too). These archailects unite their native civilizations into the Perceus Princes archailect empire, finding common ground with each other and with the Panvirtuality. Exploration and colonization efforts towards the Perseus Arms ramp up.
