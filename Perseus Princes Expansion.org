@@ -128,7 +128,7 @@ CLOCK: [2025-04-24 বৃহঃ 14:50]--[2025-04-24 বৃহঃ 14:54] =>  0:04
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-*** TODO create a data panel for the Perseus Princes [1/3]
+*** TODO create a data panel for the Perseus Princes [3/9]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -143,9 +143,12 @@ reason
 CLOCK: [2025-04-24 বৃহঃ 14:54]--[2025-04-24 বৃহঃ 15:15] =>  0:21
 :END:
 <2025-04-24 বৃহঃ 15:10-15:15>
-**** TODO first revision [1/2]
+**** DONE first revision [0/0]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:48]
 :END:
 ***** DONE from the feedback, write editing actions on the data panel :@computer:think:
 :PROPERTIES:
@@ -156,18 +159,26 @@ CLOCK: [2025-04-24 বৃহঃ 14:54]--[2025-04-24 বৃহঃ 15:15] =>  0:21
 CLOCK: [2025-04-27 রবি 14:40]--[2025-04-27 রবি 14:41] =>  0:01
 :END:
 <2025-04-27 রবি 14:50-14:55>
-***** TODO edit the data panel :@computer:think:
+***** DONE edit the data panel :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
 :LOGBOOK:
-CLOCK: [2025-04-27 রবি 14:41]
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:47]
+CLOCK: [2025-04-27 রবি 14:41]--[2025-04-27 রবি 14:47] =>  0:06
 :END:
 <2025-04-27 রবি 14:55-15:05>
-**** TODO feedback (2) [0/1]
-***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
+**** DONE feedback (2) [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:48]
+:END:
+***** DONE send the data panel to the Forums to get feedback :@internet:@computer:
 :PROPERTIES:
 :EFFORT:   2min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:48]
+CLOCK: [2025-04-27 রবি 14:47]--[2025-04-27 রবি 14:48] =>  0:01
 :END:
 **** TODO second revision [0/2]
 :PROPERTIES:
@@ -177,15 +188,21 @@ CLOCK: [2025-04-27 রবি 14:41]
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+:LOGBOOK:
+CLOCK: [2025-04-28 সোম 14:54]
+:END:
+<2025-04-28 সোম 15:02-15:07>
 ***** TODO edit the data panel :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-04-28 সোম 15:07-15:17>
 **** TODO feedback (3) [0/1]
 ***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
 :PROPERTIES:
 :EFFORT:   2min
 :END:
+<2025-04-28 সোম 15:17-15:19>
 **** TODO third revision [0/2]
 :PROPERTIES:
 :ORDERED:  t
