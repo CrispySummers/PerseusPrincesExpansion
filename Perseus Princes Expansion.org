@@ -66,7 +66,7 @@ CLOCK: [2025-04-23 বুধ 15:27]--[2025-04-23 বুধ 15:33] =>  0:06
 CLOCK: [2025-04-23 বুধ 15:33]--[2025-04-23 বুধ 15:43] =>  0:10
 :END:
 <2025-04-23 বুধ 15:45-16:00>
-** TODO components [20%]
+** TODO components [22%]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -188,21 +188,18 @@ CLOCK: [2025-04-27 রবি 14:47]--[2025-04-27 রবি 14:48] =>  0:01
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-:LOGBOOK:
-CLOCK: [2025-04-28 সোম 14:54]
-:END:
-<2025-04-28 সোম 15:02-15:07>
+<2025-05-01 বৃহঃ 15:05-15:10>
 ***** TODO edit the data panel :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-04-28 সোম 15:07-15:17>
+<2025-05-01 বৃহঃ 15:10-15:20>
 **** TODO feedback (3) [0/1]
 ***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
 :PROPERTIES:
 :EFFORT:   2min
 :END:
-<2025-04-28 সোম 15:17-15:19>
+<2025-05-01 বৃহঃ 15:20-15:22>
 **** TODO third revision [0/2]
 :PROPERTIES:
 :ORDERED:  t
@@ -237,7 +234,6 @@ CLOCK: [2025-04-28 সোম 14:54]
 :PROPERTIES:
 :EFFORT:   2min
 :END:
-*** WAIT wait for a sufficient mass of ideas to be able to write at least 5 bullet points under each section
 *** TODO outline [0/3]
 :PROPERTIES:
 :ORDERED:  t

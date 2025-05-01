@@ -1,4 +1,5 @@
 #+title: Data Panel
+* haha
 Overview
     Definition: Growing Hybrid-progenitor Empire
     Symbol: [Tasp's logo!]. Outsiders also often use a secondary logo of a Fractal Triangle filled with starfield.
@@ -99,3 +100,58 @@ Interstellar Politics
         Epp War: 9583–9949
         Amalgamation Conflict: Cold war and ideological battle
         Tensions with expansionist factions encroaching near the Rift
+
+* lol
+Demographics
+
+
+Galactography
+
+    Current Territory:
+    A volume containing the coreward edge of the Perseus Arm between the Muuh Empire and the Heart and Soul Nebulae, and adjacent parts of the Perseus Rift.
+    Number of Aligned Star Systems:
+    Approximately 104,000 systems.
+    Breakdown:
+        Core star systems: approx. 3,000.
+        Aligned star systems: approx. 59,000.
+        Protectorates and client polities: approx. 42,000.
+    Capital:
+    The empire has four capital worlds, one for each of the four ruling SI:5s.
+        Pluton is Prince Vatsceh's main seat, a repurposed mining world turned into an SI:4-maintained habitable world with both Muuh and Terragen bionts.
+        (three others)
+    Major Systems and Megastructures: The Blackbody Cluster, Pehhpepep, (others to be added)
+
+
+Government and Administration
+
+    Government:
+        Imperial Government: Polyarchal techno-aristocracy of SI:5s and SI:4s with delegated regional authority to lesser transapients.
+        Local Government by polity: The most common form of government is that of tribeminds. Small tribeminds govern local matters, often on the scale of an habitat or city. Those tribeminds can be linked together into bigger tribeminds to govern larger regions. The largest tribeminds can span several star systems if linked by wormholes. For sophonts not willing to be part of a tribemind the local governments varies wildly.
+    Citizenship:
+    Citizenship is open to all sophonts but requires the approval of one or more transapient patrons; once granted, it is respected by all Perseus Princes polities. Some citizenship rights are extended to sufficiently intelligent subsophonts. Local citizen status can be granted by individual polities by a wide variety of means, but such has a much more restrictive citizenship rights (especially in areas closer to the Amalgamation Containment Region, if such status is granted at all) and is not universally accepted throughout the empire. Often this serves a transitory state for sophonts who have yet to encounter an administrative transapient or is attributed to those in quarantine due to being suspected of being an Amalgamation vector.
+    Sophont Rights:
+    Strongly protected. Citizens of each toposophic level are expected to guide and protect lower toposophic beings and act responsibly towards higher toposophics. However local laws may be strict, especially in militarised regions and polities.
+    Empire Holidays:
+        Nexus Completion Day
+        Epp-Memory Day (mourning and reflection on the Epp War)
+
+
+Activities and Infrastructure
+
+    Civil Infrastructure:
+    Substantial but still developing. The Perseus Princes maintain a local wormhole nexus connected to the main Nexus via the Blackbody Cluster, along with more extensive Beamrider and Lightway networks. They have a large and growing number of computronium nodes for virches, transapients, and other simulations. The Princes have a preference for developing and settling moons and planets, especially cold worlds suitable for Muuh and Soft Ones, although most of the embodied population still lives in orbital habs.
+    Economy and Activities:
+    The interstellar economy of the Princes is geared towards expansion and colonisation. Gas giants and some stars are intensively exploited for raw materials for orbital structures, conversion to exotic matter for wormholes, and in some cases weapons production. On the other hand, inhabited worlds are usually relatively sparsely developed, with large areas set aside as reserves or for roleplay and other cultural activities.
+    Military Infrastructure and Warfare:
+    By Sephirotic standards, the Perseus Princes have a fairly high military expenditure. at all toposophic levels. Of course, the bulk of such expenditures come from the archailect Princes themselves, but it is common for lower toposophic polities to dedicate a significant part of their resources to aid the military cause in the ways they can. This is attributable partly to the focus on containing the Amalgamation and partly to the hinterland status (both political and cultural) of the Perseus Rift. Much of the available infrastructure is known to be used for military purposes such as strategic intelligence gathering, and the Princes field transapient warships and combat ISOs at a level comparable to to the Archosaurian Empire.
+    Higher toposophic forces are generally focused on the Amalgamation border, while modosophont and basic transapient forces are more active in the Rift, often serving in various law enforcement roles.
+
+
+Interstellar Politics
+
+    Treaty Participation:
+    The Perseus Princes are active participants in many accords and treaties, especially those relating to mutual defence and sentient rights. These include:
+    Tragadi Accords, Perseus Arm Defence Organisation, anti-Amalgamation Defence and Mutual Aid Organisation, Jekaumeatrine Accords, Sentient Rights Protocols (Full Installment), Animal Rights Accord, Bonitsa Baseline Protection Treaty, Tipaza Ethics Agreement, Mekelon Astrogation Information Exchange Agreement.
+    Interstellar Relations: Generally good. The Persus Princes are allied with the Solar Dominion and Metasoft in PADO, and on good terms with the other Sephirotics. They are also have the closest relations of any major polity with the Muuh (including their System of Response) and most Soft Ones groups. At least at higher toposophic levels, they are also known to have made agreements with the Solipsist Panvirtuality and seem to have a positive relationship with them.
+    The Amalgamation has meanwhile played a defining role in the Perseus Princes' history as their great enemy.
+    Interstellar Disputes: Aside from their ongoing campaign against the Amalgamation, the Princes are involved in some conflicts with expansionist minor empires around the Perseus Rift. The most recent major war involving the Persus Princes was the 9583–9949 Epp War fought against an alliance of Methanoid tweaks and Soft Ones xenosophonts.
