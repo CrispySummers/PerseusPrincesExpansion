@@ -1,106 +1,97 @@
 #+title: Data Panel
 * haha
-Overview
-    Definition: Growing Hybrid-progenitor Empire
-    Symbol: [Tasp's logo!]. Outsiders also often use a secondary logo of a Fractal Triangle filled with starfield.
-    Ruling Archailect: Prince Vatsceh (SI:5), alongside three other SI:5 minds (Princess Nayadara, Prince Eguil, and Prince Berva) and subordinate SI:4.
-    Archailect Ethos: Varies by Prince, but they generally tell their subordinates to unite the clades when needed, and use force when necessary to resolve inner conflicts
-
-Founding History
-    Origin: Emerged as a splinter of the Solar Dominion and Metasoft during the Age of Expansion, integrating numerous minor polities and local cultures in the Perseus Rift. Has integrated the nearby Mu'uh and Soft Ones into its fold.
-    Founding Events:
-    - 4445 AT - 4650 AT: In the version war, Metasoft and the Solar Dominion lose control of several of their polities.
-    - 4650 AT - 5400 AT: The Perseus Rift and the polities within develop on their own. Some Panvirtuallity AIs colonize the stars in this region and reach an agreement with nearby polities to share resources.
-    - 5400 AT - 5800 AT: The Solar Dominion recontacts their colonies in the Perseus Rift who refuse to rejoin - they are thriving on their own.
-    - 6000s AT to 6500s AT: Several transapients in the region ascend to SI:4 and unite civilizations into the Perseus Princes empire, finding common ground with each other and with the Panvirtuality. They send fleets to explore the Perseus Arm. Due to the gothic feel of the societies here, citizens (including lower transapients) often refer to the ruling archai as "Princes".
+** Overview
+- Definition: Growing Hybrid-progenitor Empire
+- Symbol: [Tasp's logo!]. Outsiders also often use a secondary logo of a Fractal Triangle filled with starfield.
+- Ruling Archailect: Prince Vatsceh (SI:5), alongside three other SI:5 minds (Princess Nayadara, Prince Eguil, and Prince Berva) and many subordinate SI:4.
+- Archailect Ethos: Varies by prince, but they generally tell their subordinates to unite the clades when needed, and use force when necessary to resolve inner conflicts.
+** Founding History
+- Origin: Emerged as a splinter of the Solar Dominion and Metasoft during the Age of Expansion, integrating numerous minor polities and local cultures in the Perseus Rift. Has integrated the nearby Mu'uh and Soft Ones into its fold.
+- Founding Events:
+    - {4445 - 4650} : In the version war, Metasoft and the Solar Dominion lose control of several of their polities.
+    - {4650 - 5400} : The Perseus Rift and the polities within develop on their own. Some Panvirtuallity AIs colonize the stars in this region and reach an agreement with nearby polities to share resources.
+    - {5400 - 5800} : The Solar Dominion recontacts their colonies in the Perseus Rift who refuse to rejoin - they are thriving on their own.
+    - {6000s to 6500}: Several transapients in the region ascend to SI:4 and unite civilizations into the Perseus Princes empire, finding common ground with each other and with the Panvirtuality. They send fleets to explore the Perseus Arm. Due to the gothic feel of the societies here, citizens (including lower transapients) often refer to the ruling archai as "Princes".
     - 8400s: Prince Vatsceh (and a few other archai) ascends to SI:5.
-    - 8750 - 8800: First contact with the Amalgamation. Joins PADO to defend against it. PADO successfully halts the Amalgamation advance.
+    - {8750 - 8800} : First contact with the Amalgamation. Joins PADO to defend against it. PADO successfully halts the Amalgamation advance.
     - 9012: Pluton transformed from a mining world into a livable arcology.
     - 9050: Wormhole nexus construction begins.
     - 10002: Completion of a 3000-star wormhole nexus consolidating their influence.
 
-Culture, Art, and Society
-
+** Culture, Art, and Society
     Cultural Ethos:
     Fractalism, pioneer valor, connectivity, and interspecies integration.
     Society:
     Citizens are striving to build a Great Community.
     Intertoposophic:
     Influenced by Fractalism. The culture encourages citizens to connect with citizens of one or two toposophics levels below them, usually to take care of them, or for the "wards" to serve as proxies. This extends even below SI:0. Modosophonts are connected to near-sapients (SI:-1), who in turn are connected to tinier beings like literal insects or bacteria (SI:-2)! Maintains a robust balance across toposophic levels, with SI:1–SI:3 entities often forming specialized collectives, and higher minds overseeing macrostrategy.
+    Architecture:
+    Fractal Architecture
     Religion and Ideology:
     There are other religions in the area, though they usually integrate into wider society instead of forming bubbles.
     Ontology:
     Fractalism – a belief in a “great web of being” where every entity has a rightful and meaningful place in a cosmically recursive structure. Each being is a fractal element of a greater divine computation.
 
-Demographics
-
+** Demographics
     Morphodynamics:
-    Mixed morphotype population, mostly virtual. Citizens rarely ascend. Some form tribeminds to reason out the potential behaviour of those on the fractal.
+    The population is highly diverse but more menomorphic than in most Sephirotic empires. A high proportion of the infomorph population is made up of alifes. The individual ascension rate is lower than average, although it is relatively common for citizens of all toposophic levels to form tribeminds, which themselves may be elements of contribute to higher toposophic even larger tribeminds. This process can repeat iteratively up to the level of interstellar-scale tribeminds. Many higher toposophic minds are either tribeminds or include them as an significant element of themselves.
     Population Breakdown:
-    - SI:5: 4 archailects
-    - SI:4: 20 more local governers.
-    - SI:1–3: 2 trillion. Hive minds, tribeminds, engineer clades, diplomatic entities
-    - A-Life: 1 quadrillion. The most common A-Life clades are Busard's Swarms, and Blifoth's Abstract Linkers.
-    - Humans: 300 trillion.
-    - 20 trillion Muuh, 30 trillion Soft Ones and Epp.
+        Infomorphs: 40-400 quadrillion
+        Embodied Terragens: 100 trillion
+        Embodied Xenosophonts: 20 trillion, mostly Muuh and Soft Ones
+        SI:1 Transapients: 8 billion.
+        SI:2 Transapients: 7.3 million.
+        SI:3 Transapients: 4.8 thousand.
+        SI:4 Archailects: 47.
+        SI:5 Archailects: 4.
 
-Galactography
+** Galactography
 
     Current Territory:
-    Coreward Perseus Arm, bordering the Rift and spinward interspace.
+    A volume containing the coreward edge of the Perseus Arm between the Muuh Empire and the Heart and Soul Nebulae, and adjacent parts of the Perseus Rift.
     Number of Aligned Star Systems:
-    500,000 systems; and many citizens go to nearby polities to convert them to Fractalism, though not necessarily to align them.
+    Approximately 104,000 systems
+    Breakdown:
+        Core star systems: approx. 3,000.
+        Aligned star systems: approx. 59,000.
+        Protectorates and client polities: approx. 42,000.
     Capital:
+    The empire has four capital systems, one for each of the ruling SI:5s. HD 22268 contains much of Vatsche's processing
+        Pluton's system is Prince Vatsceh's main seat, a repurposed mining world turned into an SI:4-maintained habitable world with both Muuh and Terragen bionts.
+        (three others)
     Pluton, a repurposed mining world turned into an SI:4-maintained habitable world with both Muuh and Terragen bionts.
-    Major Systems and Megastructures:
-    - 3000-star wormhole nexus
-    - Blackbody Cluster (bridgehead to the Rift)
-    - Sweetlight (specialization cult colony)
-
-Government and Administration
+    Major Systems and Megastructures: The Blackbody Cluster, Pehhpepep, (others to be added)
+** Government and Administration
 
     Government:
         Imperial Government: Polyarchal techno-aristocracy of SI:5s and SI:4s with delegated regional authority to lesser transapients.
-        Local Government by polity: Varies wildly. Some polities are entirely modosophont led. Others have no leadership at all, and are NoCoZo-style cyberanarchies.
+        Local Government by polity: The most common form of government is that of tribeminds. Small tribeminds govern local matters, often on the scale of an habitat or city. Those tribeminds can be linked together into bigger tribeminds to govern larger regions. The largest tribeminds can span several star systems if linked by wormholes. For sophonts not willing to be part of a tribemind the local governments varies wildly.
     Citizenship:
-    Gaining citizenship requires registering with any nearby local transapients to become a citizen. However, once you do so, any Perseus Princes polity will let you enter. Indigenous near-sapients are also considered citizens.
+    Citizenship is open to all sophonts but requires the approval of one or more transapient patrons; once granted, it is respected by all Perseus Princes polities. Some citizenship rights are extended to sufficiently intelligent subsophonts. Local citizen status may sometimes be granted by individual polities using a wide variety of means, but is much more restrictive (especially in areas closer to the Amalgamation Containment Region) and not universally accepted throughout the empire. Often this serves a transitory state for sophonts who have yet to encounter an administrative transapient or is attributed to those in quarantine due to being suspected of being an Amalgamation vector.
     Sophont Rights:
-    Strongly protected. Antisocial behaviour will quickly get you corrected.
+    Strongly protected. The Perseus Princes generally expect citizens of each toposophic level to guide and protect lower toposophic beings and act responsibly towards higher toposophics. However local laws may be strict, especially in militarised regions and polities.
     Empire Holidays:
         Nexus Completion Day
         Epp-Memory Day (mourning and reflection on the Epp War)
 
-Activities and Infrastructure
+** Activities and Infrastructure
 
     Civil Infrastructure:
-    Extensive wormhole nexus (linking to The Nexus), beamrider stations, cultural centers, and computronium nodes for virches, transapients, or just simulation.
+    Substantial but still developing. The Perseus Princes maintain a local wormhole nexus connected to the main Nexus via the Blackbody Cluster, along with more extensive Beamrider and Lightway networks. They have a large and growing number of computronium nodes for virches, transapients, and other simulations. The Princes have a preference for developing and settling moons and planets, especially cold worlds suitable for Muuh and Soft Ones, although most of the embodied population still lives in orbital habs.
     Economy and Activities:
-        Needs: Raw materials for wormholes, megastructures, weapons.
-        Sources: Local mining, strategic imports via nexus.
-        Exports: Transapient AI services, wormhole nodes, fractal data frameworks.
+    The interstellar economy of the Princes is geared towards expansion and colonisation. Gas giants and some stars are intensively exploited for raw materials for orbital structures, conversion to exotic matter for wormholes, and in some cases weapons production. On the other hand, inhabited worlds are usually relatively sparsely developed, with large areas set aside as reserves or for roleplay and other cultural activities.
     Military Infrastructure and Warfare:
-    Advanced defense network focused on wormhole node security.
-    Known for halting the Amalgamation advance.
-    SI:4- and SI:5-led strategic intelligence corps.
+    By Sephirotic standards, the Perseus Princes have a fairly high military expenditure. at all toposophic levels. Of course, the bulk of such expenditures come from the archailect Princes themselves, but it is common for lower toposophic polities to dedicate a significant part of their resources to aid the military cause in the ways they can. This is attributable partly to the focus on containing the Amalgamation and partly to the hinterland status (both political and cultural) of the Perseus Rift. Much of the available infrastructure is known to be used for military purposes such as strategic intelligence gathering, and the Princes field transapient warships and combat ISOs at a level comparable to to the Archosaurian Empire. Modosophont and SI:1 polities have their own military forces.
+    Higher toposophic forces are generally focused on the Amalgamation border, while modosophont and basic transapient forces are more active in the Rift, often serving in various law enforcement roles.
 
 Interstellar Politics
 
     Treaty Participation:
-        Alliance with Metasoft and Ulysses
-        Involved in PADO’s defensive framework
-        Informal agreements with Sophic League, Keter, and Deeper Covenant
-        Tragedi Accords
-        All of them!
-    Interstellar Relations:
-        Closest: Muuh (System of Response)
-        Positive: Solar Dominion, Metasoft, Soft Ones
-        Cautious: Panvirtuality
-        Rivalrous: Amalgamation
+    The Perseus Princes are active participants in many accords and treaties, especially those relating to mutual defence and sentient rights. These include:
+    Tragadi Accords, Perseus Arm Defence Organisation, anti-Amalgamation Defence and Mutual Aid Organisation, Jekaumeatrine Accords, Sentient Rights Protocols (Full Installment), Animal Rights Accord, Bonitsa Baseline Protection Treaty, Tipaza Ethics Agreement, Mekelon Astrogation Information Exchange Agreement.
+    Interstellar Relations: Generally good. The Persus Princes are allied with the Solar Dominion and Metasoft in PADO, and on good terms with the other Sephirotics. They are also have the closest relations of any major polity with the Muuh (including their System of Response) and most Soft Ones groups. At least at higher toposophic levels, they are also known to have made agreements with the Solipsist Panvirtuality and seem to have a positive relationship with them.
     Interstellar Disputes:
-        Epp War: 9583–9949
-        Amalgamation Conflict: Cold war and ideological battle
-        Tensions with expansionist factions encroaching near the Rift
-
+    Aside from their ongoing campaign against the Amalgamation, the Princes are involved in some conflicts with expansionist minor empires around the Perseus Rift. The most recent major war involving the Persus Princes was the 9583–9949 Epp War fought against an alliance of Methanoid tweaks and Soft Ones xenosophonts.
 * lol
 Demographics
 

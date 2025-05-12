@@ -66,7 +66,7 @@ CLOCK: [2025-04-23 বুধ 15:27]--[2025-04-23 বুধ 15:33] =>  0:06
 CLOCK: [2025-04-23 বুধ 15:33]--[2025-04-23 বুধ 15:43] =>  0:10
 :END:
 <2025-04-23 বুধ 15:45-16:00>
-** TODO components [22%]
+** TODO components [33%]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -128,7 +128,7 @@ CLOCK: [2025-04-24 বৃহঃ 14:50]--[2025-04-24 বৃহঃ 14:54] =>  0:04
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-*** TODO create a data panel for the Perseus Princes [3/9]
+*** KILL create a data panel for the Perseus Princes [5/6]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -180,60 +180,44 @@ CLOCK: [2025-04-27 রবি 14:41]--[2025-04-27 রবি 14:47] =>  0:06
 - State "DONE"       from "TODO"       [2025-04-27 রবি 14:48]
 CLOCK: [2025-04-27 রবি 14:47]--[2025-04-27 রবি 14:48] =>  0:01
 :END:
-**** TODO second revision [0/2]
+**** DONE second revision [2/2]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** TODO from the feedback, write editing actions on the data panel :@computer:think:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-04 রবি 14:21]
+:END:
+***** DONE from the feedback, write editing actions on the data panel :@computer:think:
 :PROPERTIES:
 :EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-01 বৃহঃ 15:22]
+CLOCK: [2025-05-01 বৃহঃ 15:16]--[2025-05-01 বৃহঃ 15:22] =>  0:06
 :END:
 <2025-05-01 বৃহঃ 15:05-15:10>
-***** TODO edit the data panel :@computer:think:
+***** DONE edit the data panel :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-01 বৃহঃ 15:32]
+CLOCK: [2025-05-01 বৃহঃ 15:23]--[2025-05-01 বৃহঃ 15:32] =>  0:09
 :END:
 <2025-05-01 বৃহঃ 15:10-15:20>
-**** TODO feedback (3) [0/1]
-***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
+**** DONE feedback (3) [1/1]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-12 সোম 14:22]
+:END:
+***** DONE send the data panel to the Forums to get feedback :@internet:@computer:
 :PROPERTIES:
 :EFFORT:   2min
+:END:
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-05-12 সোম 14:21]
+- State "WAIT"       from "TODO"       [2025-05-01 বৃহঃ 15:46]
 :END:
 <2025-05-01 বৃহঃ 15:20-15:22>
-**** TODO third revision [0/2]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO from the feedback, write editing actions on the data panel :@computer:think:
-:PROPERTIES:
-:EFFORT:   5min
-:END:
-***** TODO edit the data panel :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO feedback (4) [0/1]
-***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
-:PROPERTIES:
-:EFFORT:   2min
-:END:
-**** TODO fouth revision [0/2]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO from the feedback, write editing actions on the data panel :@computer:think:
-:PROPERTIES:
-:EFFORT:   5min
-:END:
-***** TODO edit the data panel :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO feedback (5) [0/1]
-***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
-:PROPERTIES:
-:EFFORT:   2min
-:END:
 *** TODO outline [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -242,10 +226,15 @@ CLOCK: [2025-04-27 রবি 14:47]--[2025-04-27 রবি 14:48] =>  0:01
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+CLOCK: [2025-05-12 সোম 14:32]
+:END:
+<2025-05-12 সোম 15:00-15:05>
 **** TODO edit my outline to be easier to read :@computer:think:convg:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-05-12 সোম 15:05-15:15>
 - what has to happen first? I open my outline file
 - what does doing this look like? remove words or sentences that don't make sense, and add words to make things eeasier to read, change sentences, and so on
 **** TODO get feedback on the Forum on my outline :@internet:
@@ -260,6 +249,7 @@ CLOCK: [2025-04-27 রবি 14:47]--[2025-04-27 রবি 14:48] =>  0:01
 :PROPERTIES:
 :EFFORT:   20min
 :END:
+<2025-05-12 সোম 15:15-15:31>
 **** WAIT wait for a week or so after making my first draft
 **** TODO feedback [0/3]
 :PROPERTIES:
