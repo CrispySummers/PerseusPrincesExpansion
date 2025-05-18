@@ -66,7 +66,7 @@ CLOCK: [2025-04-23 বুধ 15:27]--[2025-04-23 বুধ 15:33] =>  0:06
 CLOCK: [2025-04-23 বুধ 15:33]--[2025-04-23 বুধ 15:43] =>  0:10
 :END:
 <2025-04-23 বুধ 15:45-16:00>
-** TODO components [33%]
+** TODO components [44%]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -218,55 +218,80 @@ CLOCK: [2025-05-01 বৃহঃ 15:23]--[2025-05-01 বৃহঃ 15:32] =>  0:09
 - State "WAIT"       from "TODO"       [2025-05-01 বৃহঃ 15:46]
 :END:
 <2025-05-01 বৃহঃ 15:20-15:22>
-*** TODO outline [0/3]
+*** KILL outline [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-**** TODO copy the ideas so far that I like into an outline :@computer:divg:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-12 সোম 14:34]
+:END:
+**** KILL copy the ideas so far that I like into an outline :@computer:divg:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
 :LOGBOOK:
-CLOCK: [2025-05-12 সোম 14:32]
+- State "KILL"       from "TODO"       [2025-05-12 সোম 14:34]
+CLOCK: [2025-05-12 সোম 14:32]--[2025-05-12 সোম 14:34] =>  0:02
 :END:
-<2025-05-12 সোম 15:00-15:05>
-**** TODO edit my outline to be easier to read :@computer:think:convg:
+**** KILL edit my outline to be easier to read :@computer:think:convg:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-05-12 সোম 15:05-15:15>
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-12 সোম 14:34]
+:END:
 - what has to happen first? I open my outline file
 - what does doing this look like? remove words or sentences that don't make sense, and add words to make things eeasier to read, change sentences, and so on
-**** TODO get feedback on the Forum on my outline :@internet:
+**** KILL get feedback on the Forum on my outline :@internet:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-*** TODO first draft [0/3]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-12 সোম 14:34]
+:END:
+*** TODO first draft [2/4]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-**** TODO write the first draft :@computer:think:divg:
+**** KILL write the first draft :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   20min
 :END:
-<2025-05-12 সোম 15:15-15:31>
-**** WAIT wait for a week or so after making my first draft
-**** TODO feedback [0/3]
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-12 সোম 14:34]
+:END:
+**** KILL wait for a week or so after making my first draft
+:LOGBOOK:
+- State "KILL"       from "WAIT"       [2025-05-12 সোম 14:34]
+:END:
+**** TODO feedback [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** TODO read aloud my first draft and comment :@computer:
+***** DONE read aloud my first draft and comment :@computer:
 :PROPERTIES:
-:EFFORT:   5min
+:EFFORT:   10min
 :END:
-***** TODO get feedback on my first draft on the Forum :@internet:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-12 সোম 15:01]
+CLOCK: [2025-05-12 সোম 14:51]--[2025-05-12 সোম 15:01] =>  0:10
+:END:
+<2025-05-12 সোম 15:00-15:05>
+***** KILL get feedback on my first draft on the Forum :@internet:
 :PROPERTIES:
 :EFFORT:   3min
+:END:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-05-12 সোম 15:18]
 :END:
 ***** TODO write editing actions on my first draft using that feedback :@computer:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+:LOGBOOK:
+CLOCK: [2025-05-18 রবি 15:09]
+:END:
+<2025-05-18 রবি 15:10-15:14>
 **** TODO first revision [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -275,12 +300,14 @@ CLOCK: [2025-05-12 সোম 14:32]
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-05-18 রবি 15:14-15:22>
 - what does doing this look like? next to whatever comments suggest adding content, simply write new content!
 ***** TODO edit the first draft :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-***** TODO wait for three pieces of feedback on my first draft
+<2025-05-18 রবি 15:22-15:30>
+***** WAIT wait for three pieces of feedback on my first draft
 *** TODO second draft  [0/3]
 :PROPERTIES:
 :ORDERED:  t
