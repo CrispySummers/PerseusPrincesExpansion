@@ -8,14 +8,11 @@ Besides their diverse origins the Perseus Princes have been defined by their loc
 * History
 The origins of the Perseus Princes can be traced back to the chaos of the Version War.
 
-[change the wording "core worlds" to "core systems"]
 The earliest settlers in the Perseus Rift were relativistic explorers, many of whom were affiliated with the Solar Dominion and Metasoft. Although the exact dates are subject to disagreement - due partly to incomplete records and partly to competing definitions of the Rift’s boundary - the wavefront of Terragen expansion entered the Rift as conflict was breaking out in the Inner Sphere. Communications with the core systems were interrupted, distrust was rife, but space was plentiful.
 
 In such an environment it was inevitable that the settlers would go their own way. The Perseus Rift soon became a patchwork of small polities that never unified again. The first serious effort to bring the Rift colonies back under the influence of the Sephirotic Empires was only in the 55th century when diplomatic and religious missions from the Dominion returned to the region, and by that time the colonies had diverged to the point that few wanted to rejoin.
 
-[change the singularity levels of the "light speed frontier" to one that can create reactionless drive ships]
-
-Nonetheless the frontier continued to expand. The vanguard - the famous “light speed frontier” - was increasingly made up of AI godlings and S4-made reactionless drive ships. They established bases and empires, uniting the disparate local polities with their own followers, and over the next few centuries they formed an alliance and styled themselves the Perseus Princes.
+Nonetheless the frontier continued to expand. The vanguard - the famous “light speed frontier” - was increasingly made up of AI godlings-made ships and S4-made reactionless drive ships. They established bases and empires, uniting the disparate local polities with their own followers, and over the next few centuries they formed an alliance and styled themselves the Perseus Princes.
 
 By 6500 the alliance of godlings had become a collective of SI:4 archailects ruling a modest empire and overseeing a rapid and purposeful expansion rimwards. They established friendly relations with the neighbouring Solar Dominion and Metasoft, and cemented local agreements with the Panvirtuality.
 
@@ -25,12 +22,8 @@ The ancient alien civilisations of the Muuh and Soft Ones formed close bonds wit
 
 Then in 8750 came the first report of the Amalgamation. Joining PADO, they played a minor part in holding them off. On the other hand the Amalgamation was an existential threat, and when the Perseus Arm Defence Organisation (PADO) was formed to drive it back, the Princes were ardent supporters. The empire grew to value unity in diversity not only as an end in itself but also as a source of strength to oppose the Amalgamation.
 
-[explain how the Trillenialist vessel overcame an archailect. or else just make it so that the perpetrator was an archai! or change the target, e.t.c]
-In 9583 the Prime Hive attacked the Princes and the Muuh System of Response on the other. The Epp War was remarkable both for being fought between two Terragen-xeno alliances and for the ingenious and risky tactics of the Methanoids and Epp. Fighting in the Pluton Volume continued until 9949 when the last Trillennialist holdouts fled into Muuh space.
-
 In the Current Era the Perseus Princes are flourishing. Three more Princes - Nayadara, Eguil, and Berva - have joined Vatsceh at the fifth toposophic. The Pluton Volume’s wormhole network connects three thousand stars to the Nexus proper, while new habs and worlds are settled constantly. And the Princes are steadily expanding their reach into the unsurveyed stars of the Perseus Arm and the fragmented empires of the Rift.
 * Fractalism
-
 The guiding ontology in the Perseus Princes is Fractalism. This philosophy has its origins in Buddhism and Etodism but is also influenced by the traditional beliefs of the Muuh.
 
 Fractalists believe that there are gods in the adjacent branes, similar to the Great Archailects of our own universe. Furthermore, the fifth dimensional plenum that contains the adjacent branes has an even more powerful being (or set of beings) which influence or control the affairs of these many worlds. Beyond that they believe that there are many higher manifolds, and these plenae hold even greater gods and so on forever, with universes and powers increasing in scale without end.
