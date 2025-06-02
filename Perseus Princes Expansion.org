@@ -338,7 +338,7 @@ CLOCK: [2025-05-22 বৃহঃ 14:47]--[2025-05-22 বৃহঃ 15:00] =>  0:13
 :LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-05-25 রবি 12:43]
 :END:
-*** TODO second draft  [1/4]
+*** TODO second draft  [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -351,9 +351,12 @@ CLOCK: [2025-05-22 বৃহঃ 14:47]--[2025-05-22 বৃহঃ 15:00] =>  0:13
 CLOCK: [2025-05-28 বুধ 14:34]--[2025-05-28 বুধ 14:47] =>  0:13
 :END:
 <2025-05-28 বুধ 14:30-14:50>
-**** TODO feedback [3/3]
+**** DONE feedback [0/0]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-02 সোম 14:45]
 :END:
 ***** DONE read aloud my second draft and comment :@computer:
 :PROPERTIES:
@@ -384,19 +387,27 @@ CLOCK: [2025-05-28 বুধ 15:00]--[2025-05-28 বুধ 15:07] =>  0:07
 CLOCK: [2025-06-02 সোম 14:30]--[2025-06-02 সোম 14:37] =>  0:07
 :END:
 <2025-06-02 সোম 14:30-14:34>
-**** TODO first revision [0/3]
+**** TODO first revision [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** TODO add new content to the second draft :@computer:think:
+***** DONE add new content to the second draft :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-02 সোম 14:45]
+CLOCK: [2025-06-02 সোম 14:37]--[2025-06-02 সোম 14:45] =>  0:08
+:END:
 <2025-06-02 সোম 14:34-14:42>
 - what does doing this look like? next to whatever comments suggest adding content, simply write new content!
-***** TODO edit the second draft :@computer:think:
+***** DONE edit the second draft :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-02 সোম 15:08]
+CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :END:
 <2025-06-02 সোম 14:42-14:50>
 ***** WAIT wait for three pieces of feedback on my second draft
