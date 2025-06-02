@@ -351,7 +351,7 @@ CLOCK: [2025-05-22 বৃহঃ 14:47]--[2025-05-22 বৃহঃ 15:00] =>  0:13
 CLOCK: [2025-05-28 বুধ 14:34]--[2025-05-28 বুধ 14:47] =>  0:13
 :END:
 <2025-05-28 বুধ 14:30-14:50>
-**** TODO feedback [1/3]
+**** TODO feedback [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -364,20 +364,26 @@ CLOCK: [2025-05-28 বুধ 14:34]--[2025-05-28 বুধ 14:47] =>  0:13
 CLOCK: [2025-05-28 বুধ 14:48]--[2025-05-28 বুধ 15:00] =>  0:12
 :END:
 <2025-05-28 বুধ 14:50-14:58>
-***** TODO get feedback on my second draft on the Forum :@internet:
+***** DONE get feedback on my second draft on the Forum :@internet:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
 :LOGBOOK:
-CLOCK: [2025-05-28 বুধ 15:00]
+- State "DONE"       from "WAIT"       [2025-06-01 রবি 17:59]
+- State "WAIT"       from "DONE"       [2025-05-28 বুধ 15:07]
+- State "DONE"       from "TODO"       [2025-05-28 বুধ 15:07]
+CLOCK: [2025-05-28 বুধ 15:00]--[2025-05-28 বুধ 15:07] =>  0:07
 :END:
 <2025-06-04 বুধ 14:40-14:43>
-***** TODO write editing actions on my second draft using that feedback :@computer:
+***** DONE write editing actions on my second draft using that feedback :@computer:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-<2025-06-04 বুধ 14:43-14:48>
-**** WAIT wait for a week or so after making my second draft
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-02 সোম 14:37]
+CLOCK: [2025-06-02 সোম 14:30]--[2025-06-02 সোম 14:37] =>  0:07
+:END:
+<2025-06-02 সোম 14:30-14:34>
 **** TODO first revision [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -386,21 +392,19 @@ CLOCK: [2025-05-28 বুধ 15:00]
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-02 সোম 14:34-14:42>
 - what does doing this look like? next to whatever comments suggest adding content, simply write new content!
 ***** TODO edit the second draft :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-***** TODO wait for three pieces of feedback on my second draft
+<2025-06-02 সোম 14:42-14:50>
+***** WAIT wait for three pieces of feedback on my second draft
 *** TODO third draft [0/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-**** TODO write the third draft:@computer:think:divg:
-:PROPERTIES:
-:EFFORT:   20min
-:END:
-**** WAIT wait for a week or so after making my third draft
+**** WAIT wait for a week or so after making my second draft
 **** TODO feedback [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -435,11 +439,11 @@ CLOCK: [2025-05-28 বুধ 15:00]
 :PROPERTIES:
 :ORDERED:  t
 :END:
+**** WAIT wait for a week or so after making my third draft
 **** TODO write the fourth draft :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   20min
 :END:
-**** WAIT wait for a week or so after making my fourth draft
 **** TODO feedback [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -474,11 +478,11 @@ CLOCK: [2025-05-28 বুধ 15:00]
 :PROPERTIES:
 :ORDERED:  t
 :END:
+**** WAIT wait for a week or so after making my fourth draft
 **** TODO write the fifth draft :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   20min
 :END:
-**** WAIT wait for a week or so after making my fifth draft
 **** TODO feedback [0/3]
 :PROPERTIES:
 :ORDERED:  t

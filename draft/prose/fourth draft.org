@@ -1,12 +1,20 @@
-#+title: Third Draft
+#+title: Fourth Draft
 * Introduction
+[tone down the importance of aliens here. after all, To'ul'h have been partnering with Terragens for hundreds of years]
+[this text is too dramatic; remove emotion]
+[reorganize the paragraphs here to be divided by territory, culture, and ontology]
+[Drashner said that the article consists of Factoids with little connection between them; I need to organize them like Rakuen09 did. Also review the article on Keter as it is well organized]
 [I feel like the second sentence of this paragraph is a bit disjointed]
 The Perseus Princes are one of the new generation of archailect empires flourishing in the Outer Volumes. They are a hybrid of the cultures of local Terragens and Muuhgens. Though the Princes' domain is small compared to the Sephirotics, their ambitions are no less grand.
 
 The Princes practice Fractalism: an ontology and ideology that teaches that everywhere, everyone has a place in a web of being that extends above the highest archailects and below the smallest scales of space, and should tend to those above and below them in the fractal. As new worlds are colonized and new life is made, the fractal grows richer and richer.
 
+[remove "threatening the Gods"]
 Besides their famously diverse origins, the Perseus Princes have a reputation as defenders of one of Terragen space's most dangerous frontiers. To the rimward is the Amalgamation, a blight that threatens even the Gods. The Princes take pride in their strength and in the alliances they have forged with the Sephirotics to defend themselves.
 * history
+[You also very much need to look at the topic of each paragraph or section and combine things so that everything about a particular topic is all in one part of the article, rather than jumping around and back and forth among topics.
+]
+[replace "Rift" with "the Perseus Rift"]
 The first polities of the Perseus Princes took root during the Version War as settlers loyal to Solar Dominion and Metasoft settled the new region. While scholars disagree on the dates - partly due to incomplete records and partly to competing definitions of the Rift's boundary - they agree that Terragens entered the Rift as conflict broke out in the Inner Sphere. Colonies lost contact with their parent empires. They distrusted each other. But space was plentiful.
 
 In this environment, settlers would inevetably go their own way. The first effort to revert the Rift colonies under the influence of the Sephirotic Empires was in the 55th century when diplomatic and religious missions from the Dominion made contact, but the colonies had diverged to the point that few wanted to rejoin.
@@ -50,10 +58,12 @@ Many aspects of Muuh society are inaccessible to outsiders, but the Princes - in
 The exception are the culture known to Terragens as the Epp. Described by some commentators as “volatile”, they have been strongly influenced by Terragen society, in particular the Methanoid cold-adapted tweaks. They became infamous during the Epp War, when many Epp (including several transapient hive minds, the Epp-Hepeph) joined the Trillennialist Methanoids in an insurrection against the Princes. Following the war the great majority of the Epp were brought back into the empire - a process made easier by their ability to biochemically share memories and personality traits. They now make up a significant minority of the Princes’ embodied subjects.
 * Life and Culture
 [I think "common philosophy and culture" would be more concise and vigorous than "common philosophical and cultural basis". idk I won't meddle with this one though]
+[actually replace "common philosophical and cultural basis" with "ontology"]
 The Perseus Princes are, like any metacivilisation, united by a common philosophical and cultural basis.
 
 Guided by Fractalism, they conceive of the ideal society as a harmonious whole drawing strength from diversity and mutual responsibility. Cultural mixing is encouraged and single-clade societies are the exception rather than the norm. Custom, law, tribemind bonds, and occasional intervention by the ruling Princes bring order to this complexity.
 
+[remove this detail about society being "militarized" because warfare is done entirely by bots]
 In some Perseus polities, the laws are strict and society can be regimented, even militarised. This is the norm on the border with the Amalgamation Containment Region, where stringent controls are needed to avoid infection. More conventional conflicts sometimes trouble the coreward border as the Princes contend with the smaller empires of the Rift.
 
 The Princes are nonetheless passionate upholders of sentient rights. All life is valued, whether biological, machine, or virtual. Certain benefits of citizenship are extended to presapient beings, and pets and bots are particularly cherished.
