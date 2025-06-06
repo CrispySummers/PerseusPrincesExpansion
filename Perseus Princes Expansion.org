@@ -66,7 +66,7 @@ CLOCK: [2025-04-23 বুধ 15:27]--[2025-04-23 বুধ 15:33] =>  0:06
 CLOCK: [2025-04-23 বুধ 15:33]--[2025-04-23 বুধ 15:43] =>  0:10
 :END:
 <2025-04-23 বুধ 15:45-16:00>
-** TODO components [55%]
+** TODO components [50%]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -128,9 +128,12 @@ CLOCK: [2025-04-24 বৃহঃ 14:50]--[2025-04-24 বৃহঃ 14:54] =>  0:04
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-*** KILL create a data panel for the Perseus Princes [5/6]
+*** DONE create a data panel for the Perseus Princes [0/0]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-05 বৃহঃ 14:21]
 :END:
 **** why?
 reason
@@ -387,7 +390,7 @@ CLOCK: [2025-05-28 বুধ 15:00]--[2025-05-28 বুধ 15:07] =>  0:07
 CLOCK: [2025-06-02 সোম 14:30]--[2025-06-02 সোম 14:37] =>  0:07
 :END:
 <2025-06-02 সোম 14:30-14:34>
-**** TODO first revision [2/3]
+**** TODO first revision [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -410,7 +413,38 @@ CLOCK: [2025-06-02 সোম 14:37]--[2025-06-02 সোম 14:45] =>  0:08
 CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :END:
 <2025-06-02 সোম 14:42-14:50>
-***** WAIT wait for three pieces of feedback on my second draft
+***** DONE wait for three pieces of feedback on my second draft
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-06-06 শুক্র 07:26]
+:END:
+*** TODO create a fresh draft with Nyeti [0/5]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** why?
+reason
+**** TODO discuss the outline with Nyeti until we have enough material lol :@internet:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO consolidate our ideas into an outline for the fresh draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO write a fresh draft (400 words) :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO edit the fresh draft :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO get feedback on the frest draft [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO get Nyeti's feedback on the frest draft :@internet:
+***** TODO get the Forum's  feedback on the frest draft :@internet:
 *** TODO third draft [0/3]
 :PROPERTIES:
 :ORDERED:  t
