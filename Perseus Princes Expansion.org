@@ -66,7 +66,7 @@ CLOCK: [2025-04-23 বুধ 15:27]--[2025-04-23 বুধ 15:33] =>  0:06
 CLOCK: [2025-04-23 বুধ 15:33]--[2025-04-23 বুধ 15:43] =>  0:10
 :END:
 <2025-04-23 বুধ 15:45-16:00>
-** TODO components [50%]
+** TODO components [60%]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -341,9 +341,12 @@ CLOCK: [2025-05-22 বৃহঃ 14:47]--[2025-05-22 বৃহঃ 15:00] =>  0:13
 :LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-05-25 রবি 12:43]
 :END:
-*** TODO second draft  [2/3]
+*** DONE second draft  [0/0]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-07 শনি 14:36]
 :END:
 **** DONE write the second draft :@computer:think:divg:
 :PROPERTIES:
@@ -390,9 +393,12 @@ CLOCK: [2025-05-28 বুধ 15:00]--[2025-05-28 বুধ 15:07] =>  0:07
 CLOCK: [2025-06-02 সোম 14:30]--[2025-06-02 সোম 14:37] =>  0:07
 :END:
 <2025-06-02 সোম 14:30-14:34>
-**** TODO first revision [3/3]
+**** DONE first revision [3/3]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-07 শনি 14:36]
 :END:
 ***** DONE add new content to the second draft :@computer:think:
 :PROPERTIES:
@@ -417,39 +423,14 @@ CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-06-06 শুক্র 07:26]
 :END:
-*** TODO create a fresh draft with Nyeti [0/5]
+*** TODO third draft [1/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-**** why?
-reason
-**** TODO discuss the outline with Nyeti until we have enough material lol :@internet:
-:PROPERTIES:
-:EFFORT:   10min
+**** DONE wait for a week or so after making my second draft
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-06-09 সোম 09:15]
 :END:
-**** TODO consolidate our ideas into an outline for the fresh draft :@computer:think:
-:PROPERTIES:
-:EFFORT:   10min
-:END:
-**** TODO write a fresh draft (400 words) :@computer:think:divg:
-:PROPERTIES:
-:EFFORT:   15min
-:END:
-**** TODO edit the fresh draft :@computer:think:convg:
-:PROPERTIES:
-:EFFORT:   15min
-:END:
-**** TODO get feedback on the frest draft [0/1]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-***** TODO get Nyeti's feedback on the frest draft :@internet:
-***** TODO get the Forum's  feedback on the frest draft :@internet:
-*** TODO third draft [0/3]
-:PROPERTIES:
-:ORDERED:  t
-:END:
-**** WAIT wait for a week or so after making my second draft
 **** TODO feedback [0/3]
 :PROPERTIES:
 :ORDERED:  t
