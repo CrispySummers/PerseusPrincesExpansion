@@ -43,6 +43,8 @@ Interstellar Relations: Generally good. The Persus Princes are allied with the S
 Interstellar Disputes: Aside from
 
 * @Rakuen07
+** opinion on subsophont citizenship
+While all sophonts are citizens, there could be disagreements on where (below the S0 grade) the "minimum intellect for citizenship" line should be. Should dogs be citizens? Monkeys? Dolphins? That a-life you just created on your virch? I expect that the answers are as diverse as the Perseus Princes polities.
 ** info
 Okay, some information that might help us flesh out the Perseus Princes:
 Distance between SolSys and the Perseus Arm: My quick look at Wikipedia says that the Perseus Arm is about 6400 light years away from the Sun. According to the first picture of the Terragen Expansion article, this distance is between the maximum range covered (from Sol Sys) by Displacement Drives and Reactionless Drives by the Current Era without the aid of xenosophont-made wormholes. Most likely, the Perseus Arm per se is sparsely colonized by the Current Era, maybe possibly seen as potentially highly valuable interstellar real estate.
@@ -80,3 +82,9 @@ Second core ternion :
 
 Third core ternion :
 - Deep connections between sphere of origin : the Perseus Prince is trying to connect with xenosophont empires, and as such has large part of it dedicated to xenosophont (muuh, soft ones and maybe in lower amount others like tohul etc). An idea concerning this is that there might be significantly more effort made by transapient to help xenosophonts ascend than terragens (maybe not the Muuh since it doesn't seem like something they would do, but what about a community of S1 soft ones). This might be because there are a much higher number of ascended terragen than xenosophont in the terragen sphere. There might also be a large amount of population that are xenosplice or xenoprovolve.
+
+* @Cogs13
+- I think that there could be even a bit more emphasis on military expenditure, and particularly on communications screening. I think the military expenditure could be so high in the region that it could cause delays in delivering non-military goods to inhabitants. Post scarcity is mostly unviolated, but on occasion local auto-war surges may cause minor short-term shortages.
+- Also, there may be slight accumulating latency delays since communications around amalgamation border territory would need to be more heavily screened for viruses.
+- The autowar surges could be part of a greater strategy to deter the amalgamation by matching force numbers at different locations on a continuous basis. These surges don't really fight, but merely are present to show readiness. Tourists and enthusiasts might even be nearby to watch their transits, since there is an unsually high population of them. There also might be a more stringent wormhole quarantine program, which might be switched on very rarely, but has happened a few times over the centuries.
+- Lastly, I think with the tribe minds there may be some vulnerabilities with regards to subversion. It would seem that there might need to be protocals in place to make sure that tribes don't let themselves subverted one by one(Divided and conquered). (Or perhaps tribe minds are actually less vulnerable, due to compartmentalization)
