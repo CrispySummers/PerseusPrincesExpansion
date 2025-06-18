@@ -4,64 +4,16 @@
 :PROPERTIES:
 :ORDERED:  t
 :END:
-** components
-*** do some research
-**** read Fractalism
-**** read the Perseus Princes
-**** see Nyeti's docs
-*** see the Discord messages on the Perseus Princes expansion
-*** pool ideas
-*** post organized notes
-*** start discussion
 ** why am I doing this project?
 @Nyeti got me interested in working on this project! I really want to try collaborating with others on a sci-fi project. I also think that the core concept of the Perseus Princes is cool. And I am interested in developing it further. Of course, my motivation for this project is based on a momentary spark, and may not last, but if I do lose interest, I will tell others about what ideas I have so they can continue it.
-** basket
-- stuff I thought of earlier
-  - see Nyeti's docs
-  - read the Perseus Princes Article
-  - read Fractalism
-  - lol
-  - post organized notes
-  - collect all the ideas somehow!
-- what is the objective?
-  flesh out the environment, economy, politics, interpolitics, and culture of the Perseus Princes
-- what do I already know about the project?
-  - I need to start a forum thread so we can discuss stuff
-  - I know this about the Perseus Princes: they are an empire in the perseus arm led by several S5 and S4 archai, with one named Prince Vatakesh. They believe in fractalism - the idea that sophontkind is a giant fractal of sophonts from top to bottom. They are also near the Amalgamation.
-    - perhaps fractionalism could even include literal bacteria and viruses? perhaps it encourages clade diversity?
-      - perhaps clade diversity is helped by creating virtual realms free from the constraints of the physical world? and making A-Life? idk
-  - here are some ideas that fellow OAUPers came up with on the Discord:
-    - the Perseus Princes could have a top to down chain of beings based on toposophic levels; the S5s could have S4s answering to them, which would have S3s answering to them, all the way down to modosophonts and maybe even sub-sapient beings?
-    - @Nyeti proposed that the gothic feel of this empire could be part of its "memetic" appeal: the danger of the Amalgamation, the tight-knit communities, a cabal of princes, and so on.
-    - @Nyeti proposed that it could have good and bad sides; good that you are living in an intimate and tight-knit community with clear purpose, bad that the empire is somewhat militaristic compared to most Sephirotics, and there is the danger of the Amalgamation and PADO steralizing systems to avoid Amalgamation infections.
-  - here is also some ideas that @Nyeti came up with in his google doc that he shared with me
-    - xenophilia could be one of the Perseus Prince's values
-    - of course they need energy for new wormhole links - they are a buorgening empire. I think this has interesting implications! Perhaps they ask for energy from other empires?
-    - they have good relations with Metasoft, the Solar Dominion (even those those two were enemies in the Version War lol), and all
-    - they have bad relations with the Amalgamation, but it has bad relations with everyone.
-    - of course, @Nyeti followed my proposed questions and categories in fleshing. perhaps they are good for something after all!
-    - I also want to flesh out what they DON'T value, or frown upon (perhaps solipsism since they are a tight-knit community)
-    - what are they working towards? archai motives are incomprehensible, but what are modo societies in here trying to do
-    - perhaps consult stevebowers? he expanded it after all
-  - here are some questions that I have on the Perseus Empires
-    - where did they even come from?
-    - why princes?
-    - how is the daily life of a modosophont? let's make one short vignette at around 100 words to show this
-- what don't I know that I need to find out?
-  - how should we collaborate on this? should this be an anarchy, where we just kind of pool our ideas and come up with stuff and write drafts? or should this be top-to-bottom chain?
-    - I think It should be an anarchy. altough @Nyeti might make a good leader haha - Idk tho this choice is just vibes
-    - but who should post the first draft?
-    - I think we should pool our ideas together in one big document and then coalese them somehow
-  - was I the one to spark enthusiasm by mentioning the Perseus Princes? Or did I just bring the topic back up again
-- where can I get relevant insights for this project?
-  - the EG
-  - the existing pages on the Perseus Princes
-  - Fractionalism
-  - the Discord
-  - a forum thread that I might start on this topic
-** TODO plan "Perseus Princes Expansion" [2/5]
+** what is the objective?
+flesh out the environment, economy, politics, interpolitics, and culture of the Perseus Princes
+** DONE plan "Perseus Princes Expansion" [0/0]
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-23 বুধ 15:43]
 :END:
 *** DONE brainstorm ideas for "Perseus Princes Expansion" using the questions :@computer:think:divg:
 :PROPERTIES:
@@ -87,24 +39,415 @@ CLOCK: [2025-04-23 বুধ 14:57]--[2025-04-23 বুধ 15:12] =>  0:15
 CLOCK: [2025-04-23 বুধ 15:12]--[2025-04-23 বুধ 15:15] =>  0:03
 :END:
 <2025-04-23 বুধ 15:30-15:35>
-*** TODO consolidate the basket for "Perseus Princes Expansion" into a plan outline :@computer:think:divg:
+*** DONE consolidate the basket for "Perseus Princes Expansion" into a plan outline :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
 :LOGBOOK:
-CLOCK: [2025-04-23 বুধ 15:15]
+- State "DONE"       from "TODO"       [2025-04-23 বুধ 15:21]
+CLOCK: [2025-04-23 বুধ 15:15]--[2025-04-23 বুধ 15:21] =>  0:06
 :END:
 <2025-04-23 বুধ 15:35-15:40>
-*** TODO write out all of the components of the plan outline of "Perseus Princes Expansion" :@computer:think:divg:
+*** DONE write out all of the components of the plan outline of "Perseus Princes Expansion" :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-23 বুধ 15:33]
+CLOCK: [2025-04-23 বুধ 15:27]--[2025-04-23 বুধ 15:33] =>  0:06
+:END:
 <2025-04-23 বুধ 15:40-15:45>
-*** TODO sketch out tasks for "Perseus Princes Expansion" :@computer:think:divg:
+*** DONE sketch out tasks for "Perseus Princes Expansion" :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-23 বুধ 15:43]
+CLOCK: [2025-04-23 বুধ 15:33]--[2025-04-23 বুধ 15:43] =>  0:10
+:END:
 <2025-04-23 বুধ 15:45-16:00>
+** TODO components [20%]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** DONE research [4/4]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 14:54]
+:END:
+**** DONE research Fractalism [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 14:39]
+:END:
+***** DONE look online for and take notes on Fractalism :@computer:@internet:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 14:39]
+CLOCK: [2025-04-24 বৃহঃ 14:30]--[2025-04-24 বৃহঃ 14:39] =>  0:09
+:END:
+<2025-04-24 বৃহঃ 14:30-14:40>
+**** DONE research the Perseus Princes [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 14:49]
+:END:
+***** DONE look online for and take notes on Perseus Princes :@computer:@internet:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 14:49]
+CLOCK: [2025-04-24 বৃহঃ 14:39]--[2025-04-24 বৃহঃ 14:49] =>  0:10
+:END:
+<2025-04-24 বৃহঃ 14:40-14:50>
+**** DONE read and take notes on Nyeti's docs :@internet:@computer:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 14:54]
+CLOCK: [2025-04-24 বৃহঃ 14:50]--[2025-04-24 বৃহঃ 14:54] =>  0:04
+:END:
+<2025-04-24 বৃহঃ 14:50-15:00>
+**** KILL collect the Discord messages on the Perseus Princes expansion :@internet:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "KILL"       from "TODO"       [2025-04-24 বৃহঃ 14:54]
+:END:
+<2025-04-24 বৃহঃ 15:00-15:10>
+*** DONE start discussion on this [1/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 14:54]
+:END:
+**** DONE post a forum thread on OAUP forums :@computer:@internet:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+*** TODO create a data panel for the Perseus Princes [3/9]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** why?
+reason
+**** DONE fill in a table with a format similar to TRHN's data panel with info gathered so far :@computer:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-24 বৃহঃ 15:15]
+CLOCK: [2025-04-24 বৃহঃ 14:54]--[2025-04-24 বৃহঃ 15:15] =>  0:21
+:END:
+<2025-04-24 বৃহঃ 15:10-15:15>
+**** DONE first revision [0/0]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:48]
+:END:
+***** DONE from the feedback, write editing actions on the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:41]
+CLOCK: [2025-04-27 রবি 14:40]--[2025-04-27 রবি 14:41] =>  0:01
+:END:
+<2025-04-27 রবি 14:50-14:55>
+***** DONE edit the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:47]
+CLOCK: [2025-04-27 রবি 14:41]--[2025-04-27 রবি 14:47] =>  0:06
+:END:
+<2025-04-27 রবি 14:55-15:05>
+**** DONE feedback (2) [0/0]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:48]
+:END:
+***** DONE send the data panel to the Forums to get feedback :@internet:@computer:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-27 রবি 14:48]
+CLOCK: [2025-04-27 রবি 14:47]--[2025-04-27 রবি 14:48] =>  0:01
+:END:
+**** TODO second revision [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO from the feedback, write editing actions on the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+<2025-05-03 শনি 15:02-15:07>
+***** TODO edit the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+<2025-05-03 শনি 15:07-15:17>
+**** TODO feedback (3) [0/1]
+***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+<2025-05-01 বৃহঃ 15:17-15:19>
+**** TODO third revision [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO from the feedback, write editing actions on the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO edit the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO feedback (4) [0/1]
+***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+**** TODO fouth revision [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO from the feedback, write editing actions on the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO edit the data panel :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO feedback (5) [0/1]
+***** TODO send the data panel to the Forums to get feedback :@internet:@computer:
+:PROPERTIES:
+:EFFORT:   2min
+:END:
+*** WAIT wait for a sufficient mass of ideas to be able to write at least 5 bullet points under each section
+*** TODO outline [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO copy the ideas so far that I like into an outline :@computer:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO edit my outline to be easier to read :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+- what has to happen first? I open my outline file
+- what does doing this look like? remove words or sentences that don't make sense, and add words to make things eeasier to read, change sentences, and so on
+**** TODO get feedback on the Forum on my outline :@internet:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+*** TODO first draft [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO write the first draft :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   20min
+:END:
+**** WAIT wait for a week or so after making my first draft
+**** TODO feedback [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO read aloud my first draft and comment :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO get feedback on my first draft on the Forum :@internet:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write editing actions on my first draft using that feedback :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+**** TODO first revision [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO add new content to the first draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+- what does doing this look like? next to whatever comments suggest adding content, simply write new content!
+***** TODO edit the first draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO wait for three pieces of feedback on my first draft
+*** TODO second draft  [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO write the second draft :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   20min
+:END:
+**** WAIT wait for a week or so after making my second draft
+**** TODO feedback [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO read aloud my second draft and comment :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO get feedback on my second draft on the Forum :@internet:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write editing actions on my second draft using that feedback :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+**** TODO first revision [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO add new content to the second draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+- what does doing this look like? next to whatever comments suggest adding content, simply write new content!
+***** TODO edit the second draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO wait for three pieces of feedback on my second draft
+*** TODO third draft [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO write the third draft:@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   20min
+:END:
+**** WAIT wait for a week or so after making my third draft
+**** TODO feedback [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO read aloud my third draft  and comment :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO get feedback on my third draft  on the Forum :@internet:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write editing actions on my third draft  using that feedback :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+**** TODO first revision [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO add new content to the third draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+- what does doing this look like? next to whatever comments suggest adding content, simply write new content!
+***** TODO edit the third draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO wait for three pieces of feedback on my third draft
+*** TODO fourth draft  [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO write the fourth draft :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   20min
+:END:
+**** WAIT wait for a week or so after making my fourth draft
+**** TODO feedback [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO read aloud my fourth draft  and comment :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO get feedback on my fourth draft  on the Forum :@internet:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write editing actions on my fourth draft  using that feedback :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+**** TODO first revision [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO add new content to the fourth draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+- what does doing this look like? next to whatever comments suggest adding content, simply write new content!
+***** TODO edit the fourth draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO wait for three pieces of feedback on my fourth draft
+*** TODO fifth draft [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO write the fifth draft :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   20min
+:END:
+**** WAIT wait for a week or so after making my fifth draft
+**** TODO feedback [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO read aloud my fifth draft  and comment :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+***** TODO get feedback on my fifth draft  on the Forum :@internet:
+:PROPERTIES:
+:EFFORT:   3min
+:END:
+***** TODO write editing actions on my fifth draft  using that feedback :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+**** TODO first revision [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO add new content to the fifth draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+- what does doing this look like? next to whatever comments suggest adding content, simply write new content!
+***** TODO edit the fifth draft :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+***** TODO wait for three pieces of feedback on my fifth draft
 ** TODO finish "Perseus Princes Expansion" [/]
 :PROPERTIES:
 :ORDERED:  t
