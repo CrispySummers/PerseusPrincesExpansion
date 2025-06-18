@@ -470,6 +470,8 @@ CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :PROPERTIES:
 :EFFORT:   20min
 :END:
+
+**** WAIT wait for a week or so after making my fourth draft
 **** TODO feedback [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -509,6 +511,7 @@ CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :PROPERTIES:
 :EFFORT:   20min
 :END:
+**** WAIT wait for a week or so after making my fifth draft
 **** TODO feedback [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -552,7 +555,7 @@ reason
 ***** TODO look online for and take notes on what conditions Neptunian worlds need to form :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
-:END:
+:END
 ** TODO finish "Perseus Princes Expansion" [/]
 :PROPERTIES:
 :ORDERED:  t
