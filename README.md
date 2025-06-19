@@ -1,0 +1,1 @@
+The Perseus Princes is a fictional empire in the setting of the Orion's Arm Universe Project. On Discord, I discussed making a data panel for it, and others expressed their interest in expanding it. Thus, we started to do so. Here is the files that we are using for it. :D
