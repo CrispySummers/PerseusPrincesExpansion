@@ -1,0 +1,103 @@
+#+title: Fifth Draft
+* Introduction
+[yeah the paragraphs are indeed too short; Drashner said that they should each at least be 3, or else they'll read like a collection of Factoids]
+The Perseus Princes are one of the new generation of archailect empires flourishing and growing in the Outer Volumes: a hybrid of the cultures and noetics of Terragens and Muuhgens in the region. Though the Princes’ domain is small compared to the Sephirotics proper, it is their most powerful offshoot and ally in the spinward Perseus Arm.
+
+Besides their diverse origins, the Perseus Princes’ history has been defined by the presence of the Amalgamation, a mysterious and extremely dangerous blight on their rimward border. They have responded by building alliances with the Sephirotic Empires and establishing themselves as a regional military power and a defender of Terragen frontiers.
+
+The Princes practice Fractalism: an ontology and ideology that teaches that in all parts of society and toposophic levels, citizens take their place in a chain of being that extends above the highest archailects and down to the smallest scales of space, with bonds of responsibility extending to those above and below them in the chain. The fractal grows in richness as new worlds are colonised or brought into the fold, and as new life is created by the citizens themselves.
+
+History
+
+Origins
+
+[Drashner mentioned that there were problems with this origin; they wouldn't have expanded as far as the Perseus Arm when the VW was happening]
+[also yay this has 3 paragraphs!]
+The first polities of the Perseus Princes took root during the Version War as settlers, mostly colonists loyal to either the Solar Dominion or Metasoft, settled the region. While scholars disagree on the dates - partly due to incomplete records and partly to competing definitions of the Rift's boundary - they agree that Terragens entered the Rift as conflict broke out in the Inner Sphere. Located hundreds of light-years away from the nearest wormhole, these colonies soon lost contact with their parent empires. Even though space and resources were plentiful, Metasoft and Dominion colonies distrusted each other, separated by ideological divisions and mutual enmity. In this environment, independent settlers would inevitably go their own way.
+
+[maybe replace the end sentence with "they never went to interstellar war" instead of "the main reason why open interstellar warfare neever occured"]
+Unlike the situation during the founding of the Red Star M’pire, no single transapient held overwhelming dominance over the others during the development of the Perseus Rift. The most advanced minds to arrive among the first settlers were seven SI:2 individuals divided into two opposing blocs: four aligned with Metasoft, and three loyal to the Dominion. Fortunately, their colonies were scattered across distances of tens of light-years, which appears to be the main reason why open interstellar warfare never occurred.
+
+[maybe merge this with the previous]
+Instead, the Metasoft-Dominion conflict in the Rift mainly played out by means of digital and information warfare, propaganda, a technological and toposophic arms race aimed at creating an aligned Third Singularity transapient, and occasional proxy wars. Meanwhile, independent colonies led by modosophonts or SI:1s sought to maneuver carefully amid the conflicts of the major powers in order to profit and grow.
+
+[maybe add "had to be content" at the end; "each had to be content to become one among many"]
+This was facilitated by the fact that even most developed Metasoft and Dominion colonies weren’t able to efficiently exert power in distant systems because of light-speed lags, logistical challenges and acts of sabotage from their rivals. As a result, they couldn’t suppress the emergence of new SI:2 entities unaligned with either Sephirotic, and each had to become one among many local interstellar hegemons confined to their respective zones of influence.
+
+[merge this paragraph with the next]
+Over time, even these Sephirotic colonies grew distant from their common roots, moving on from their grudges and gradually developing into culturally and ideologically distinct offshoots of their parent empires. In the 4700s AT, the Panvirtuality began settling marginal systems that were largely ignored by most factions, developing and expanding their presence in the following centuries.
+
+By the 5000s AT, the Perseus Rift had evolved into a multipolar frontier dominated by a small number of major polities led by the local SI:3 entities, linked with each other and the numerous minor polities in a dynamic web of alliances and rivalries. The first effort to revert the Rift colonies to the control of the Sephirotic Empires was in the 55th century when diplomatic and religious missions from the Dominion made contact, but the colonies had diverged to the point that few wanted to rejoin.
+
+[maybe start the second sentence of this paragraph with "They linked stars into a sector of the Wormhole Nexus under the control of the local archailects"]
+All the while, the frontier continued to expand. The vanguard - the famous “light speed frontier” - was increasingly made up of archailects’ avatars and servants equipped with reactionless drive ships. Stars were now being linked into a growing sector of the Wormhole Nexus under the archailects’ control. They established bases and empires, uniting disparate local polities with their own followers.
+
+By 6500 AT one alliance of godlings had ascended to a collective of SI:4 archailects ruling a modest empire and directing expansion rimwards. They established cordial relations with neighbouring Solar Dominion and Metasoft polities, and cemented local agreements with the Panvirtuality for sharing resources that they had been developing.
+
+At first the Perseus Princes - as this alliance came to be known - was largely pragmatic and lacked a defining ideology or ontology. However, the archai fostered the development of syncretic philosophies drawing from Etodism, Solarism, Metasoft network philosophy, and Communion mediation practices. The conception of galactic mindkind as a great chain of being, or a Great Fractal, gained popularity as an ontological framework for these beliefs, and in the 70th century Fractalism emerged as a complete ontology. It was widely embraced by modosophonts and apparently also by transapients.
+
+* Recent history
+
+[where the fuck are the second and third events??? maybe just mention two events instead of four]
+[maybe remove "truly"]
+The Princes truly rose to prominence in the 9th millennium. Four events combined to bring this about.
+
+First was the discovery of the Muuh empire in the Perseus Arm, followed by first contact with the Soft Ones in 8294.
+Less than 200 years later Prince Vatsceh ascended to the Fifth Toposophic. Following eir latest ascension, Prince Vatsceh established eir seat in the Sierpens system, distributing most of eir processing substrate through this star system and the rest of the Pluton Volume.
+
+[the second sentence feels a bit incoherent. maybe replace it with "Initially, the Princes played a minor part in its defense, but the Amalgamation kept attacking, and when the local powers formed PADO to drive it back, the Princes ardently supported it"]
+The fourth decisive event came in 8750: the first report of the Amalgamation. The Princes initially played a minor part in the defence, but the Amalgamation remained an existential threat, and when the Perseus Arm Defence Organisation (PADO) was formed to drive it back, the Princes were ardent supporters. The empire grew to value unity in diversity not only as an end in itself but also as a source of strength to oppose the Amalgamation.
+
+During this period the ancient alien civilisations of the Muuh and Soft Ones formed close bonds with the Perseus Princes. In 9012 Vatsceh opened Pluton, a former ice giant stripped of its atmosphere and mantle, for surface habitation by Terragens and Muuhgens, and the system soon became a cultural and economic centre for the empire.
+
+Since then, three more Princes - Nayadara, Eguil, and Berva - have joined Vatsceh at the fifth toposophic. The Pluton Volume’s wormhole network connects three thousand stars to the Nexus proper, while new habs and worlds are settled constantly.
+
+Many Perseus polities on the coreward borders are expanding into the Rift, exerting their political and military power against the smaller neighbouring empires. Meanwhile, the Princes are steadily extending their reach into the unsurveyed stars of the Perseus Arm. However, expansion has almost completely stopped in the areas close to the Amalgamation Containment Region, where the Princes maintain the bulk of their high toposophic military strength.
+
+* Fractalism
+[remove the second and third paragraphs, and merge the fifth and sixth, and move the fifth to "culture"]
+The guiding ontology in the Perseus Princes is Fractalism. This philosophy has its origins in Buddhism and Etodism, but is also influenced by the traditional beliefs of the local Muuh, by Solarism, and by Metasoft concepts of cosmos and consciousness as networks.
+
+Fractalists believe that there are gods in the adjacent branes, similar to the Great Archailects of our own universe. Furthermore, the fifth dimensional plenum that contains the adjacent branes has an even more powerful being (or set of beings) which influence or control the affairs of these many worlds. Beyond that they believe that there are many higher manifolds, and these plenae hold even greater gods and so on forever, with universes and powers increasing in scale without end.
+
+Similarly Fractalists believe that the archailects are themselves lesser gods, which exist to rule the lesser transapients, while the transapients are above Humans (and the Muuh, the Epp and others), who are set above animals and plants, and these are set above minerals and subatomic particles down to the Planck length.
+
+Regarding ethics, Fractalism teaches each being to act with compassion and responsibility, guiding lower beings while following the leadership of higher beings. This hierarchical view has some similarities to Solarism but opposes the idea of a single ruling being; the fact that Vatsceh has not prevented other Princes from ascending to eir level is held to be an example of this principle.
+
+The Princes are quite encouraging of tribeminds and other temporary merging and communion between sophonts. Quite often this crosses more than one toposophic level, allowing each level to organically direct the lower toposophics.
+This even extends down to the subsophont level. Pets, other animals, bots, alifes, and even non-sentient plants are considered an integral part of society, and may be actively directed by modosophont citizens or act as their distributed subconscious.
+
+For many citizens this takes on spiritual significance: it is seen as a way to gain the wisdom and experience of higher minds, and to share in turn with simpler minds. It also serves more material purposes such as assisting government and managing ecologies and mechologies. The individual ascension rate among Perseus Princes citizens is however below the Sephirotic average, perhaps because tribeminds partly fill the same role.
+
+A wide variety of religions coexist in the Principalities, and many of these build on the foundation of Fractalism. Other unrelated faiths are practiced too but they are discouraged from forming closed communities. The Princes prefer their subjects to live as an organic whole, and the Epp War is taken as, amongst other things, a lesson against fanaticism.
+
+Fractalism shares roots with ontologies and religions followed in the Sophic League (particularly the Fractal Brotherhood and other Buddhist sects), Solar Dominion, and Metasoft, and has common ground with those of the Communion of Worlds and the Technorapture Hypernation. In many cases this has been a foundation for cultural, diplomatic, and ecumenical links. In others it has caused dissension; Perseus ideologues and their counterparts in other empires often care deeply about the same ideas but differ enough to argue bitterly over them.
+
+Life and culture
+
+The Perseus Princes are, like any metacivilisation, united by a common memetic.
+
+Guided by Fractalism, they conceive of the ideal society as a harmonious whole drawing strength from diversity and mutual responsibility. Cultural mixing is encouraged and single-clade societies are the exception rather than the norm. Custom, law, tribemind bonds, and occasional intervention by the ruling Princes bring order to this complexity.
+
+Society
+
+The Princes are considered to be patrons, taking an active role in the functioning of the empire, but their Principalities are not archailectocracies. They expect each toposophic level to be largely self-governing or at least self-managing. Modosophont governments are diverse, and might be consensus-based, democratic, meritocratic, or take any number of other forms. Where there is a need for transapient-level intelligence, governing bodies often form tribeminds, although in some cases a higher toposophic patron may step in.
+
+In some Perseus polities, the laws are strict and society can be regimented, even militarised. This is the norm on the border with the Amalgamation Containment Region, where stringent controls are needed to avoid infection. Meanwhile, many polities on the coreward borders organise more conventional militaries for wars against the smaller empires of the Rift. It is unclear why the Princes themselves allow such conflicts to continue when they could easily assimilate or wipe out most of these minor empires. The leading theories among godwatchers and archailectologists are that the Princes see border conflicts as encouraging diversity, invention, or a martial mindset, while subtly intervening to prevent major escalation. When asked, the Princes have given differing answers; most famously, Prince Berva said through an avatar that “That is only part of the story.”
+
+The Princes are nonetheless passionate upholders of sentient rights. All life is valued, whether biological, machine, or virtual. Certain benefits of citizenship - like freedom of travel, property rights, bodily autonomy, and even translation devices - are extended to presapient beings, and pets and bots are particularly cherished.
+
+One of the most admired endeavours is creating new life. Sometimes this takes the form of organic neogens or provolves, but considerably more new vec and neumann designs are released each decade, thanks in part to a strong Metasoft-derived design culture. New alifes are even more prolific, and some highly successful alife clades including Busard Swarms and Bliffoth’s Abstract Linkers have their origins in Perseus virches.
+
+As in many Terragen empires, xenosophonts also make up part of the diversity of Perseus life. However, the Perseus Princes are unusual in forming partnerships with two xenosophont races with their own ancient interstellar empires: the Muuh and the Soft Ones.
+Although many aspects of Muuh society are inaccessible to outsiders, the Princes - in particular Prince Vatsceh - have been unusually successful in building links with them. The Soft Ones also have a reputation for being conservative and inward-looking, but they have a very adaptable psychology, and some clades such as the Epp have developed new and dynamic cultures within the Princes’ domain.
+
+Archailectologists have theorised a number of reasons for the Princes to integrate these two species into their empire. Beyond an appreciation for diverse forms of life, the Princes seem to value their millions of years of experience and their unusual animin-like AI.
+
+Aesthetics and art
+
+Perseus art and architecture are rich in fractal motifs. Unsurprisingly, fractal architecture is widespread and iconic, but other fractal patterns - especially snowflakes - are also common in decorative art. Particularly abstract Perseus virches may also include fractals; for example, a virch consisting entirely of web data structures may have self-repeating webs.
+
+Universal Design is also a popular design philosophy due to the huge diversity of clades within the empire. The Princes encourage projects that make it easier for different societies to mix, although because of the incompatible environmental needs of many bionts, they can often only meet in virch.
+
+Narratives are another popular artform among the Princes, often in the form of fabulist stories that blend fact, speculation, and myth. Legendary retellings of history or dreams of the future are perennial favourites. Some commentators believe this stems from Muuh culture - but others hold that the Princes are cultivating their empire as a new mythic frontier, where everyone can find a role in the story, and anything truly is possible.
