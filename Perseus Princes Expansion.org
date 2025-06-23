@@ -125,7 +125,7 @@ CLOCK: [2025-04-24 বৃহঃ 14:50]--[2025-04-24 বৃহঃ 14:54] =>  0:04
 :PROPERTIES:
 :EFFORT:   5min
 :END:
-*** TODO draft [/]
+*** TODO draft [4/7]
 **** DONE create a data panel for the Perseus Princes [0/0]
 :PROPERTIES:
 :ORDERED:  t
@@ -421,7 +421,7 @@ CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-06-06 শুক্র 07:26]
 :END:
-**** TODO third draft [1/3]
+**** TODO third draft [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -429,22 +429,36 @@ CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-06-09 সোম 09:15]
 :END:
-***** TODO feedback [0/3]
+***** DONE feedback [3/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO read aloud my third draft  and comment :@computer:
-:PROPERTIES:
-:EFFORT:   5min
-:END:
-****** TODO get feedback on my third draft  on the Forum :@internet:
+****** DONE get feedback on my third draft  on the Forum :@internet:
 :PROPERTIES:
 :EFFORT:   3min
 :END:
-****** TODO write editing actions on my third draft  using that feedback :@computer:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-23 Mon 14:22]
+:END:
+****** DONE read aloud my third draft  and comment :@computer:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-23 Mon 15:39]
+CLOCK: [2025-06-23 Mon 15:30]--[2025-06-23 Mon 15:39] =>  0:09
+- State "DONE"       from "TODO"       [2025-06-23 Mon 14:22]
+:END:
+<2025-06-23 Mon 15:35-15:39>
+****** DONE write editing actions on my third draft  using that feedback :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-23 Mon 15:46]
+CLOCK: [2025-06-23 Mon 15:39]--[2025-06-23 Mon 15:46] =>  0:07
+:END:
+<2025-06-23 Mon 15:39-15:43>
 ***** TODO first revision [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -453,17 +467,25 @@ CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+CLOCK: [2025-06-23 Mon 15:46]--[2025-06-23 Mon 16:01] =>  0:15
+:END:
+<2025-06-23 Mon 15:43-15:51>
 - what does doing this look like? next to whatever comments suggest adding content, simply write new content!
 ****** TODO edit the third draft :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+<2025-06-23 Mon 15:51-15:59>
 ****** TODO wait for three pieces of feedback on my third draft
-**** TODO fourth draft  [0/3]
+**** TODO fourth draft  [0/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** WAIT wait for a week or so after making my third draft
+***** TODO wait for a week or so after making my third draft
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-06-23 Mon 14:21]
+:END:
 ***** TODO write the fourth draft :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   20min
@@ -500,11 +522,14 @@ CLOCK: [2025-06-02 সোম 14:45]--[2025-06-02 সোম 15:08] =>  0:23
 :EFFORT:   10min
 :END:
 ****** TODO wait for three pieces of feedback on my fourth draft
-**** TODO fifth draft [0/3]
+**** TODO fifth draft [1/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** WAIT wait for a week or so after making my fourth draft
+***** DONE wait for a week or so after making my fourth draft
+:LOGBOOK:
+- State "DONE"       from "WAIT"       [2025-06-23 Mon 14:21]
+:END:
 ***** TODO write the fifth draft :@computer:think:divg:
 :PROPERTIES:
 :EFFORT:   20min
