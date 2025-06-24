@@ -459,31 +459,39 @@ CLOCK: [2025-06-23 Mon 15:30]--[2025-06-23 Mon 15:39] =>  0:09
 CLOCK: [2025-06-23 Mon 15:39]--[2025-06-23 Mon 15:46] =>  0:07
 :END:
 <2025-06-23 Mon 15:39-15:43>
-***** TODO first revision [0/3]
+***** TODO first revision [2/3]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO add new content to the third draft :@computer:think:
+****** DONE add new content to the third draft :@computer:think:
 :PROPERTIES:
-:EFFORT:   10min
+:EFFORT:   30min
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Tue 14:40]
+CLOCK: [2025-06-24 Tue 14:28]--[2025-06-24 Tue 14:40] =>  0:12
 CLOCK: [2025-06-23 Mon 15:46]--[2025-06-23 Mon 16:01] =>  0:15
 :END:
 <2025-06-23 Mon 15:43-15:51>
+<2025-06-24 Tue 14:30-14:38>
 - what does doing this look like? next to whatever comments suggest adding content, simply write new content!
-****** TODO edit the third draft :@computer:think:
+****** DONE edit the third draft :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
-<2025-06-23 Mon 15:51-15:59>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Tue 14:45]
+CLOCK: [2025-06-24 Tue 14:40]--[2025-06-24 Tue 14:45] =>  0:05
+:END:
+<2025-06-24 Tue 14:38-14:46>
 ****** TODO wait for three pieces of feedback on my third draft
-**** TODO fourth draft  [0/5]
+**** TODO fourth draft  [1/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-***** TODO wait for a week or so after making my third draft
+***** DONE wait for a week or so after making my third draft
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Tue 14:22]
 - State "DONE"       from "WAIT"       [2025-06-23 Mon 14:21]
 :END:
 ***** TODO write the fourth draft :@computer:think:divg:
