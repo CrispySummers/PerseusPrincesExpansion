@@ -499,7 +499,7 @@ CLOCK: [2025-06-24 Tue 14:40]--[2025-06-24 Tue 14:45] =>  0:05
 :LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-07-21 Mon 07:57]
 :END:
-**** TODO fourth draft  [1/6]
+**** TODO fourth draft  [2/4]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -508,18 +508,19 @@ CLOCK: [2025-06-24 Tue 14:40]--[2025-06-24 Tue 14:45] =>  0:05
 - State "DONE"       from "TODO"       [2025-06-24 Tue 14:22]
 - State "DONE"       from "WAIT"       [2025-06-23 Mon 14:21]
 :END:
-***** TODO feedback [0/3]
+***** DONE feedback [1/1]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-****** TODO read aloud my fourth draft  and comment :@computer:
+****** DONE read aloud my fourth draft  and comment :@computer:
 :PROPERTIES:
-:EFFORT:   5min
+:EFFORT:   10min
 :END:
 :LOGBOOK:
-CLOCK: [2025-07-21 Mon 15:01]
+- State "DONE"       from "TODO"       [2025-07-21 Mon 15:14]
+CLOCK: [2025-07-21 Mon 15:01]--[2025-07-21 Mon 15:14] =>  0:13
 :END:
-<2025-07-21 Mon 15:10-15:14>
+<2025-07-21 Mon 15:10-15:18>
 ***** TODO first revision [0/3]
 :PROPERTIES:
 :ORDERED:  t
@@ -527,6 +528,9 @@ CLOCK: [2025-07-21 Mon 15:01]
 ****** TODO add new content to the fourth draft :@computer:think:
 :PROPERTIES:
 :EFFORT:   10min
+:END:
+:LOGBOOK:
+CLOCK: [2025-07-21 Mon 15:14]
 :END:
 <2025-07-21 Mon 15:14-15:22>
 - what does doing this look like? next to whatever comments suggest adding content, simply write new content!
