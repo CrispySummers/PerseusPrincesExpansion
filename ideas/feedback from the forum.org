@@ -1,4 +1,5 @@
 #+title: Feedback From The Forum
+* misc
 - @Drashner1
   - post a fresh draft of the full data panel so it can be seen as a whole and any other additions or adjustments are easier to see.
   - Re the capitals - We generally prefer to refer to these things as 'systems' rather than 'worlds' since the latter gives the impression that most Terragens live on planets when that is not the case.
@@ -87,3 +88,10 @@ Interstellar Politics
     The Amalgamation has meanwhile played a defining role in the Perseus Princes' history as their great enemy.
     Interstellar Disputes: Aside from their ongoing campaign against the Amalgamation, the Princes are involved in some conflicts with expansionist minor empires around the Perseus Rift. The most recent major war involving the Persus Princes was the 9583–9949 Epp War fought against an alliance of Methanoid tweaks and Soft Ones xenosophonts.
   #+end_quote
+* fifth draft
+** @Drashner1
+- (on the first paragraph of the History section) Suggest expanding this section to make more mention of the impact of the Version War as a reason for why the Solar Dominion and Metasoft left the area alone for so long. Plenty of colonies are established light-years away from a wormhole, but get reabsorbed when the Sephirotic/the Nexus catches up to them. But the PP didn't go that route. It seems likely the Version War diverted Sephirotic attention and efforts away from the region for a good bit, giving time for independent civs - and eventually the PP - to form and develop.
+- (on the Frontier Expansion paragraph) Suggest expanding on this and modifying it a bit to make the connection to the history and relevance clearer. Or possibly remove the paragraph from the article if it isn't really advancing the narrative.
+- (on the Godlings) This paragraph starts in past tense, switches to present tense (even though it's talking about past events) and then back to past tense again. It should probably all be in past tense given where it is located in the article.
+- (on the Recent History section) The first three paragraphs are all in past tense - which makes sense - but the last paragraph is in present tense, which doesn't work in a section tltled 'Recent History'. Suggest either tweaking the last paragraph to be past tense or changing the section title to something less...historical...and then adding one or more 'transition' sentences to the last paragraph to introduce it and shift the narrative from the past to the present. 
+- (on the part about governing bodies forming tribeminds) Tribeminds are not automatically transapient. As such, the last sentence here doesn't really work. You might say something about tribeminds being formed with support/guidance/gifttech from higher toposophics to have transavant spikes in some areas or the area under consideration. Or perhaps they have access to transapient level vots. Or some mix of all three.
